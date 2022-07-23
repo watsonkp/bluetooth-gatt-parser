@@ -1,0 +1,6 @@
+bin/
+lib/
+pdf/
+index.html
+pyvenv.cfg
+gatt-specifications.json
